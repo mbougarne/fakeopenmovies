@@ -1,0 +1,24 @@
+{
+  "name": "fakeopenmovies",
+  "version": "1.0.0",
+  "description": "A fake movies API",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbougarne/fakeopenmovies.git"
+  },
+  "keywords": [
+    "movies",
+    "api"
+  ],
+  "author": "Mourad Bougarne @mbougarne <contact@mbougarne.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mbougarne/fakeopenmovies/issues"
+  },
+  "homepage": "https://github.com/mbougarne/fakeopenmovies#readme"
+}
